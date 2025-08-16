@@ -1,4 +1,4 @@
-# Materia : Ciencia de Datos
+# Ciencia de Datos
 **Código:** CIENCIA-DATOS-2025-B-G1 | **Período:** 2025-B | **Grupo:** G1
 
 <div style="background-color: #e8f5e8; padding: 20px; border-left: 5px solid #4CAF50; margin: 20px 0; border-radius: 5px;">
